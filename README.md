@@ -52,4 +52,4 @@ Your feedback is invaluable! If you have suggestions, issues, or ideas for impro
 
 Thank you for exploring this project! I hope you enjoy customising and expanding your Gridfinity system.
 
-This project is based on work by Zack Freedman's of [Chris Heazlewood](https://github.com/ostat), [voidstarlab](https://www.voidstarlab.com/)and [vector76](https://github.com/vector76/)'s [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad)# gridfinity-silabs
+This project is based on work by Zack Freedman's of [Chris Heazlewood](https://github.com/ostat), [voidstarlab](https://www.voidstarlab.com/) and [vector76](https://github.com/vector76/)'s [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad)# gridfinity-silabs
