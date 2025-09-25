@@ -13,7 +13,7 @@ This is using Chris Heazlewoodd port of Zack Freedman's Gridfinity system in Ope
 
 ## Getting Started
 
-**Gridfinity Extended** is a set of OpenSCAD scripts for generating gridfinity related 3d models. 
+**Gridfinity Silabs board supports** is a set of OpenSCAD scripts for generating gridfinity related 3d models.
 
 ### Running locally
 
